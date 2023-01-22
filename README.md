@@ -5,6 +5,7 @@ I am a third year student majoring in Computer Science with Business Application
 
 * 🖥️  See my full portfolio at: [My Portfolio Site](http://knytnguyen.github.io/portfolio)
 * ✉️  For business inquiries, please contact me at: [knytnguyen@gmail.com](mailto:knytnguyen@gmail.com)
+* 🔎  To learn about my background and experience, feel free to visit my [LinkedIn](https://www.linkedin.com/in/kenny-nguyen-cs/)
 
 ### Skills
 
@@ -17,7 +18,3 @@ I am a third year student majoring in Computer Science with Business Application
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/Kengu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/knytnguyen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kenny-nguyen-cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kny.tn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
