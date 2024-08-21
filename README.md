@@ -1,7 +1,7 @@
 Hi! My name is Kenny Nguyen 👋
 =============================
 
-I am a third year student majoring in Computer Science with Business Applications at the University of California, Riverside. My current interests are in front-end web development and also back-end development. I have also started dabbling in data science and am always open to learning new technologies in CS! ✨
+My current interests are in front-end web development and machine learning. I have also started dabbling in data science and analytics and am always open to learning new technologies in CS! ✨
 
 * 🖥️  See my full portfolio at: [My Portfolio Site](http://knytnguyen.github.io/portfolio)
 * ✉️  For business inquiries, please contact me at: [knytnguyen@gmail.com](mailto:knytnguyen@gmail.com)
